@@ -46,7 +46,7 @@
         "strawberry chunks",
         "clover honey"
       ],
-      "image": "ice-cream-xtra1"
+      "image": "ice-cream-xtra1.svg"
     },
     {
       "name": "Sunny Moony",
@@ -57,7 +57,7 @@
         "pink cream chips",
         "vanilla extract"
       ],
-      "image": "ice-cream-xtra2"
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
