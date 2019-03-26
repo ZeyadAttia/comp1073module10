@@ -30,9 +30,17 @@
 		request.onload = function() {
 			var iScreamInc = request.response;
 			console.log(iScreamInc);
+			populateHeader(iScreamInc);
 		}
 		/* STEP 9: Build out the populateHeader() function */
-
+		function populateHeader(jsonObj) {
+			// create an h1
+			var header1 = document.createElement('h1');
+			// set the text
+			header1.textContent = jsonObj['companyName'];
+			// stick that to the DOM
+			header.appendChild(header1);
+		}
 		/* STEP 10a: Assemble the showTopFlavors() function */
 
 			// STEP 10b: Bind the JSON topFlavors object to a var
