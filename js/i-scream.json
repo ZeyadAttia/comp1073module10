@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Perfect Dynamite Cream",
+      "calories": 650,
+      "type": "sorbet",
+      "ingredients": [
+        "banana purée",
+        "strawberry chunks",
+        "clover honey"
+      ],
+      "image": "ice-cream-xtra1"
+    },
+    {
+      "name": "Sunny Moony",
+      "calories": 300,
+      "type": "ice cream",
+      "ingredients": [
+        "peppermint chocolate",
+        "pink cream chips",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra2"
     }
   ]
 }
